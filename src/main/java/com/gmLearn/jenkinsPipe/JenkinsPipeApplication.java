@@ -19,7 +19,7 @@ public class JenkinsPipeApplication implements CommandLineRunner {
 	
 	@Override
 	public void run(String... args)throws Exception {
-		log.info("Reach inside the run hellooo");
+		log.info("Reach inside the run hellooo after Jenkins Pipeline setup");
 	}
 
 }
